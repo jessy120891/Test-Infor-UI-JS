@@ -2,7 +2,9 @@
 
 #### Requirements:
 `npm i --also=dev`
+
 `npx playwright install`
+
 
 #### Run Tests:
 `npm test`
